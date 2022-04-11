@@ -13,6 +13,7 @@
 
 For frontend I like to use React with Redux. To make my developer work easier, I often replace Javascript with Typescript. <br>
 I think NodeJs with Express can be a great choice for the backend, and that's why I adore choosing them.<br>
+During my years as a programmer, I became acquainted with databases like MongoDB and MySQL. <br>
 For different coding competitions, I usually use C++ or Python (depending on the task).<br>
 For the version control system, I obviously chose Git.<br>
 
