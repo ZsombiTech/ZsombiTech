@@ -34,9 +34,9 @@ For the version control system, I obviously chose Git.<br>
 <br>
 
 📫 How to find me: 
-  - :bulb: [Instagram](https://www.instagram.com/__hzsombi/)
   - :office: [LinkedIn](https://www.linkedin.com/in/zsombor-horv%C3%A1th-b2a409214/)
-  - 🐦: [Twitter](https://twitter.com/ZsomborHorvth11)
+  - :bulb: [Instagram](https://www.instagram.com/__hzsombi/)
+  - 📘 [Facebook](https://www.facebook.com/zsombor.horvath.58555/)
 
 <br>
 
