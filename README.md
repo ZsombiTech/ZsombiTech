@@ -1,17 +1,19 @@
 ### Hi there 👋
 
+<br>
+<br>
+
 - 👨‍🎓 A passionate self-taught full stack web developer
 - :zap: I love math, programming, data science, and books
 - 📖 I'm currently an enthusiastic student of the Fazekas Mihaly High School in Hungary. 
 - 🌱 I’m addicted to learning and growing every day
 
 <br>
-<br>
 
 💻 Languages and tools:
 
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code>Javascript<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code>React<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/typescript/typescript.png"></code>
@@ -24,14 +26,12 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 <br>
-<br>
 
 📫 How to find me: 
   - :bulb: [Instagram](https://www.instagram.com/__hzsombi/)
   - :office: [LinkedIn](https://www.linkedin.com/in/zsombor-horv%C3%A1th-b2a409214/)
   - 🐦: [Twitter](https://twitter.com/ZsomborHorvth11)
 
-<br>
 <br>
 
 📈 My github stats
