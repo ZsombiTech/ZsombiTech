@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 <br>
-<br>
 
 - 👨‍🎓 A passionate self-taught full stack web developer
 - :zap: I love math, programming, data science, and books
