@@ -12,7 +12,7 @@
 
 💻 Languages and tools:
 
-For frontend I like to use React with Redux. To make my developer work easier, I often use Typescript rather than Javascript. 
+For frontend I like to use React with Redux. To make my developer work easier, I often replace use Javascript with Typescript. 
 I think NodeJs with Express can be a great choice for the backend, and that's why I adore to choose them.
 For different coding competitions, I usually use C++ or Python (depending on the task).
 For the version control system, I obviously chose Git.
