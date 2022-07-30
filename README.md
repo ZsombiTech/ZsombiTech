@@ -11,7 +11,7 @@
 
 ---
 
-💻 Languages and tools:
+### 💻 Languages and tools:
 
 For frontend I like to use React with Redux. To make my developer work easier, I often replace Javascript with Typescript. <br>
 I think NodeJs with Express can be a great choice for the backend, and that's why I adore choosing them.<br>
@@ -37,7 +37,7 @@ For the version control system, I obviously chose Git.<br>
 
 <br>
 
-📫 How to find me: 
+### 📫 How to find me: 
   - :office: [LinkedIn](https://www.linkedin.com/in/zsombor-horv%C3%A1th-b2a409214/)
   - :bulb: [Instagram](https://www.instagram.com/__hzsombi/)
   - 📘 [Facebook](https://www.facebook.com/zsombor.horvath.58555/)
@@ -54,7 +54,7 @@ For the version control system, I obviously chose Git.<br>
 
 <br>
 
-📈 My github stats
+###  📈 My github stats
 
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ZsombiTech&count_private=true&show_icons=true&theme=tokyonight&hide_rank=false" alt="ZsombiTech" />
