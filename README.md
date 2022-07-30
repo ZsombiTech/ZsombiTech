@@ -9,6 +9,8 @@
 
 <br>
 
+---
+
 💻 Languages and tools:
 
 For frontend I like to use React with Redux. To make my developer work easier, I often replace Javascript with Typescript. <br>
@@ -31,6 +33,8 @@ For the version control system, I obviously chose Git.<br>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
+---
+
 <br>
 
 📫 How to find me: 
@@ -40,18 +44,13 @@ For the version control system, I obviously chose Git.<br>
 
 <br>
 
+---
 
 ### 🔝 Most used languages
   <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZsombiTech&theme=github_dark&hide_border=true&hide=Jupyter%20Notebook,css,html,scss,python&layout=compact" />
-
-
-<details>
-  <summary>🧑‍🔬 This week I did</summary>
   
-  [![Rakesh's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=itsrakesh&theme=github_dark&hide_border=true)](https://wakatime.com/@itsrakesh)
-</details>
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=RakeshPotnuru.RakeshPotnuru)
+---
 
 <br>
 
