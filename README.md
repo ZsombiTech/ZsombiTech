@@ -4,7 +4,7 @@
 
 - 👨‍🎓 A passionate self-taught full stack web developer
 - :zap: I love math, programming, data science, and books
-- 📖 I'm currently an enthusiastic student of the Fazekas Mihaly High School in Hungary
+- 📖 I'm currently an enthusiastic student of the Delft University Of Technology
 - 🌱 I’m addicted to learning and growing every day
 
 <br>
