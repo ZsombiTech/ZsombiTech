@@ -50,9 +50,6 @@ const zsombor = {
 | --- | --- | --- |
 | **Jul 2026 → Dec 2026** | **Amazon Web Services** — Dublin, IR | SDE Intern · DynamoDB Team |
 | **Apr 2026 → Now** | **Altix** — Amsterdam, NL | AI Engineer Intern · RAG Pipeline |
-| **Dec 2022 → Now** | **Virtual Front Desk** — Remote | Software Engineer · Team Lead (3) |
-| **Sept 2022 → Oct 2023** | **Redmenta** — Budapest, HU | SWE Intern |
-| **Feb 2022 → Oct 2022** | **tOURmix** — Budapest, HU | Software Engineer · Part-time |
 
 ---
 
