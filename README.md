@@ -37,7 +37,7 @@ const zsombor = {
     gpa: "8.5 / 10 — top 10%",
     minor: "Business Minor @ TU Delft (Sept 2026)",
   },
-  currentlyShipping: ["VirtualFrontDesk", "PrSentry", "NicheLM"],
+  currentlyShipping: ["PrSentry", "NicheLM"],
   next: "SDE Intern @ Amazon Web Services — Dublin, Ireland 🇮🇪 (Jul 2026)"
 };
 ```
