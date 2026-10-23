@@ -154,7 +154,6 @@ const zsombor = {
 
 ### ✨ &nbsp; Currently
 
-- 🛠️ &nbsp; Shipping a video-calling platform to **6,000+ weekly users** at Virtual Front Desk
 - 📚 &nbsp; Year 2 CS @ TU Delft — Machine Learning, Algorithms, Networks
 - 🧠 &nbsp; Side-quest: small language models tuned for absurdly specific domains
 - ☕ &nbsp; Open to coffee chats — best reached over email
